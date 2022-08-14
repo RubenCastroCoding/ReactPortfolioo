@@ -15,7 +15,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"Hello, I'm Ruben Castro, and thank you for visiting my portfolio page. I'm currently a student of the Georgia Tech Coding Boot Camp, I am also a sales manager at Gee Hvac with over 12 years of experience in sales and business management. In addition to working, soccer and coding are some of my favorite hobbies.",
+    "aboutme":"Hello, I'm Ruben Castro, and thank you for visiting my portfolio page. I have graduated from the Georgia Tech Coding Boot Camp, I am also a sales manager at Gee Hvac with over 12 years of experience in sales and business management. In addition to working, soccer and coding are some of my favorite hobbies.",
     "education":[
       {
         "UniversityName":"Lanier Technical College",
@@ -39,7 +39,54 @@ let resumeData = {
       },
       {
         "skillname":"CSS"
+      },
+      {
+        "skillname":"Javascript"
+      },
+      { 
+        "skillname":"Web API"
+      },
+      {
+        "skillname":"Third-Party API"
+      },
+      {
+        "skillname":"Server-Side API"
+      },
+      {
+        "skillname":"Node.js" 
+      },
+      {
+        "skillname":"Express.js"
+      },
+      {
+        "skillname":"SQL"
+      },
+      {
+        "skillname":"Express.js"
+      },
+      {
+        "skillname":"Object-Relational Mapping"
+      },
+      {
+        "skillname":"Model-View-Controller"
+      },
+      {
+        "skillname":"NoSQL"
+      },
+      {
+        "skillname":"Progressive Web Applications"
+      },
+      {
+        "skillname":"React"
+      },
+      {
+        "skillname":"Mern"
+      },
+      {
+        "skillname":"State"
       }
+
+
     ],
     "portfolio":[
       {
